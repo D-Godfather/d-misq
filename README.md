@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Python, C++, and networking
 - 💞️ I’m looking to get into bug bounties
-- 📫 How to reach me ... n/a
+- 📫 https://github.com/d-misq
 
 <!---
 d-misq/d-misq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
