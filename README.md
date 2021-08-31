@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d-misq
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Python, C++, and networking
-- 💞️ I’m looking to get into scripting
+- 👀 Cybersecurity
+- 🌱 currently learning Python, C++, and networking
+- 💞️ looking to get into scripting and forensics
 - 📫 https://github.com/d-misq
 
 <!---
