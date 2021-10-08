@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d-misq
 - 👀 Cybersecurity
-- 🌱 currently learning Python, C++, and networking
-- 💞️ looking to get into scripting and forensics
+- 🌱 currently learning Python, C++, and Networking
+- 💞️ interested in incident response, scripting, threat hunting, and forensics
 - 📫 https://github.com/d-misq
 
 <!---
